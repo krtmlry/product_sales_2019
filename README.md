@@ -27,3 +27,4 @@ This type of modelling is utilized since we are trying to create an OLAP databas
 
 ![image.png](attachment:4094e4bd-fbae-4382-9243-85d8aeda3d0d.png)
 
+## Project architecture
