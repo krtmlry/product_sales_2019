@@ -2,11 +2,11 @@
 
 ## About the project
 
-In this project, we will transform and model the data using Pandas and Python. We will also be using an open source ETL tool called Mage.ai to house all necessary codes for the pipeline. The output will then be exported to a cloud based Postgres database called Supabase.
+In this project, we will extract,transform and load the data using Pandas and Python. We will focus on the process of ETL and later on will try to include ETL tools in the process.
 
 The cloud database for this project is Supabase. Since I want to avoid utilizing paid cloud services for this fictional project.
 
-> Note: The ETL process will only keep sales record for year 2019.
+> Note: The ETL pipeline will only keep sales record for year 2019.
 
 ## Dataset
 `Product sales 2019 dataset`
