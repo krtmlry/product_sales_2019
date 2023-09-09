@@ -35,5 +35,8 @@ This type of modelling is utilized since we are trying to create an OLAP databas
 ## Dashboard
 The sales dashboard is built on lookerstudio, google's free web based BI tool.
 The dashboard is a mixed of table uploads from supabase and also some direct sql queries were done.
-Since this is an end-to-end data engineering project, I focused more on the ETL part rather than the dashboarding. 
+
+Since this is an end-to-end data engineering project, I focused more on the ETL part rather than the dashboarding.
+
+Link to dashboard: https://lookerstudio.google.com/reporting/158fe66e-c3d0-4189-8af0-e3e040d3e917
 > The dashboard is currently static, there are no filters added and only shows the summary of the product sales for 2019.
