@@ -17,6 +17,14 @@ url: https://raw.githubusercontent.com/krtmlry/product_sales_2019/main/data/prod
 The database is designed using a star schema that consists of a fact and dimension tables. \
 This type of modelling is utilized since we are trying to create an OLAP database that will be used for analysis.
 
-![image.png](https://github.com/krtmlry/product_sales_2019/blob/main/img/db-model-01.png?raw=true)
+![data-model](https://github.com/krtmlry/product_sales_2019/blob/main/img/db-model-01.png?raw=true)
 
 ## Project architecture
+![architecture](https://github.com/krtmlry/product_sales_2019/blob/main/img/Architecture.png?raw=true)
+
+## Technology used
+- Data source: Github raw csv file
+- Programming language: Python
+- Code editor: Jupyterlab
+- Database: Supabase
+- Dashboard: Lookerstudio
