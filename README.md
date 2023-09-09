@@ -1,4 +1,4 @@
-# Product sales data set ETL pipeline
+# Product sales data set ETL process
 
 ## About the project
 
