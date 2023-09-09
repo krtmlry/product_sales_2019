@@ -7,6 +7,9 @@ In this project, we will extract,transform and load the data using Pandas and Py
 The cloud database for this project is Supabase. Since I want to avoid utilizing paid cloud services for this fictional project.
 
 > Note: The ETL pipeline will only keep sales record for year 2019.
+## ipynb files
+- merging_csv.ipynb - for merging csv files from January - December 2019.
+- productsales_etl_01.ipynb - for the entire ETL process of this project.
 
 ## Dataset
 `Product sales 2019 dataset`
